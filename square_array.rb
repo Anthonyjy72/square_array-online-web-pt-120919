@@ -15,3 +15,9 @@ new_numbers = [9,10,16,25]
     puts new_numbers[counter]
     counter += 1
 end
+
+  array = [1, 2, 3]
+  square_array.each do |square|
+    puts "#{square_array}"
+end
+    
